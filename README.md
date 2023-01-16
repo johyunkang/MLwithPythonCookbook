@@ -1,1 +1,3 @@
-# MLwithPythonCookbook
+# 머신러닝with파이썬쿡북
+
+책을 읽고 정리한 샘플 코드
